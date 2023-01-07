@@ -1,1 +1,1 @@
-# clone-from-one-repo-and-push-to-other-repo
+# clone from one repo and push to other repo
